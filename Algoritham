@@ -1,0 +1,26 @@
+1) Algoritham for a adition of two number.
+
+Step-1 : start
+Step-2 : get input 1 and input 2 
+Step-3 : sum of given value 1 and value 2
+Step-4 : print sum of value 1 and value 2
+Step-5 : end 
+
+
+2) Algoritham for a area of circle.
+
+Step-1 : start
+Step-2 : read the radius of circle
+Step-3 : area = 3.14 radius*radius
+Step-4 : print the area of circle
+Step-5 : end 
+
+3) Algoritham for a adition of a all even numbers.
+
+Step-1 : start
+Step-2 : read limited number of n
+Step-3 : assign the value of i where i=1
+Step-4 : assign i=n 
+Step-5 : if i is not equal to n then i%2
+Step-6 : if i%2==0 then print the number of sum 
+Step-7 : end
